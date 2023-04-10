@@ -27,3 +27,5 @@ secret_key.txt
 
 # Environment variables
 .env
+
+db.sqlite3
