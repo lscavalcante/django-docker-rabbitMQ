@@ -1,0 +1,29 @@
+# Compiled Python files
+*.pyc
+
+# Python bytecode
+__pycache__/
+
+# Virtual environment
+venv/
+
+# SQLite database
+*.db
+
+# Log files
+*.log
+
+# Backup files
+*~
+
+# Static files directory
+staticfiles/
+
+# Media files directory
+media/
+
+# Secret key
+secret_key.txt
+
+# Environment variables
+.env
